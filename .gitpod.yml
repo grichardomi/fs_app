@@ -1,0 +1,3 @@
+tasks:
+  - init: npm insall
+    command: npm run dev
