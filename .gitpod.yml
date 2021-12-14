@@ -12,3 +12,10 @@ vscode:
   extensions:
     - svelte.svelte-vscode 
 
+github:
+  prebuilds: 
+    master: true
+    branches: true
+    pullrequesrs: true
+
+
